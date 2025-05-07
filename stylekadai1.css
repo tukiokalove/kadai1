@@ -1,4 +1,4 @@
-img{
+section{
    /* Layout Properties */
 top: 60px;
 left: 0px;
@@ -8,3 +8,23 @@ height: 600px;
 background: transparent url('img/mainvisual.png') 0% 0% no-repeat padding-box;
 opacity: 1; 
 }
+about.jpg{
+   /* Layout Properties */
+top: 740px;
+left: 590px;
+width: 101px;
+height: 48px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 32px/48px Meiryo;
+letter-spacing: 0px;
+color: #383E45;
+opacity: 1;
+}
+img{
+top: 60px;
+left: 220px;
+width: 840px;
+height: 480px;
+background: transparent url('img/bicycle1.png') 0% 0% no-repeat padding-box;
+opacity: 1;}
